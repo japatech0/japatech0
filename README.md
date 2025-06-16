@@ -1,16 +1,43 @@
-## Hi there 👋
+<h1 align="center">Olá! Eu sou a Amanda 🧠💻</h1>
 
-<!--
-**japatech0/japatech0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <i>Estudante de Análise e Desenvolvimento de Sistemas | Apaixonada por tecnologia e aprendizado constante</i>
+</p>
 
-Here are some ideas to get you started:
+### 👩‍💻 Sobre mim
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎓 Estudando **Cibersegurança** e **Desenvolvimento Web**
+- 🛡️ Foco atual: **Front-end (Javascript, CSS e HTML) Cibersegurança (Engenharia Social, Pentest e Segurança da Informação)**
+- 📚 Gosto de aprender de forma prática, com desafios do mundo real
+- 💡 Criei este GitHub para compartilhar projetos, estudos e experimentos!
+
+### 🛠️ Tecnologias que estou aprendendo
+
+<div style="display: flex; gap: 10px;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" />
+</div>
+
+### 🚀 Projetos em destaque
+
+
+### 🌐 Onde me encontrar
+
+- 💼 [LinkedIn] www.linkedin.com/in/amanda-inagaki
+- ✉️ **Email:** inagakiamanda2@gmail.com
+- 📷 [Instagram de Estudos]. https://www.instagram.com/thejapatech/
+
+### 💡 Curiosidades
+
+- ☕ Amante de café com código
+- 🎀 Misturo Hello Kitty com Kali Linux e ninguém me segura!
+- 💬 Sempre disposta a aprender algo novo e trocar experiências
+
+---
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=seuusuario&show_icons=true&theme=tokyonight" />
+</p>
