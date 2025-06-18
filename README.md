@@ -34,3 +34,9 @@
 
 - ☕ Amante de café com código
 - 💬 Sempre disposta a aprender algo novo e trocar experiências
+
+  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=seuusuario&show_icons=true&theme=tokyonight" />
+</p>
+
