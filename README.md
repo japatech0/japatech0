@@ -33,7 +33,6 @@
 ### 💡 Curiosidades
 
 - ☕ Amante de café com código
-- 🎀 Misturo Hello Kitty com Kali Linux e ninguém me segura!
 - 💬 Sempre disposta a aprender algo novo e trocar experiências
 
 ---
