@@ -1,14 +1,14 @@
-<h1 align="center">Olá! Eu sou a Amanda 🧠💻</h1>
+<h1 align="center">Olá! Eu sou a Amanda 💻</h1>
 
 <p align="center">
-  <i>Estudante de Análise e Desenvolvimento de Sistemas | Apaixonada por tecnologia e aprendizado constante</i>
+  <i>Estudante de Análise e Desenvolvimento de Sistemas | Apaixonada por tecnologia</i>
 </p>
 
-### 👩‍💻 Sobre mim
+### Sobre mim
 
 - 🎓 Estudando **Cibersegurança** e **Desenvolvimento Web**
 - 🛡️ Foco atual: **Front-end (Javascript, CSS e HTML) Cibersegurança (Engenharia Social, Pentest e Segurança da Informação)**
-- 📚 Gosto de aprender de forma prática, com desafios do mundo real
+- 📚 Gosto de aprender de forma prática, com desafios do mundo real.
 - 💡 Criei este GitHub para compartilhar projetos, estudos e experimentos!
 
 ### 🛠️ Tecnologias que estou aprendendo
@@ -26,9 +26,9 @@
 
 ### 🌐 Onde me encontrar
 
-- 💼 [LinkedIn] www.linkedin.com/in/amanda-inagaki
+- 💼 LinkedIn: www.linkedin.com/in/amanda-inagaki
 - ✉️ **Email:** inagakiamanda2@gmail.com
-- 📷 [Instagram de Estudos]. https://www.instagram.com/thejapatech/
+- 📷 Instagram de Estudos: https://www.instagram.com/thejapatech/
 
 ### 💡 Curiosidades
 
