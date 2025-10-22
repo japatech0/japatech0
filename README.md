@@ -1,6 +1,6 @@
 # 👩‍💻 Amanda Inagaki
 
-**'Estudante de Análise e Desenvolvimento de Sistemas'**
+**Estudante de Análise e Desenvolvimento de Sistemas**
 
 ### Sobre mim
 Me chamo Amanda Inagaki, tenho 19 anos e atualmente estou cursando ADS. Sou uma pessoa comunicativa e que gosta de desafios, e ate por isso entrei na área de Tecnologia. Meu foco atualmente é automações com Python, além de melhorar constantemente minhas habilidades em front-end com HTML, CSS e JavaScript. Busco evoluir a cada dia e ter um aprendizado contínuo me ajuda bastante nisso. 
