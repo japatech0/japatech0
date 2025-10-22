@@ -1,15 +1,9 @@
-<h1 align="center">Olá! Eu sou a Amanda 💻</h1>
+# 👩‍💻 Amanda Inagaki
 
-<p align="center">
-  <i>Estudante de Análise e Desenvolvimento de Sistemas | Apaixonada por tecnologia</i>
-</p>
+**'Estudante de Análise e Desenvolvimento de Sistemas'**
 
 ### Sobre mim
-
-- 🎓 Estudando **Cibersegurança** e **Desenvolvimento Web**
-- 🛡️ Foco atual: **Front-end (Javascript, CSS e HTML) Cibersegurança (Engenharia Social, Pentest e Segurança da Informação)**
-- 📚 Gosto de aprender de forma prática, com desafios do mundo real.
-- 💡 Criei este GitHub para compartilhar projetos, estudos e experimentos!
+Me chamo Amanda Inagaki, tenho 19 anos e atualmente estou cursando ADS. Sou uma pessoa comunicativa e que gosta de desafios, e ate por isso entrei na área de Tecnologia. Meu foco atualmente é automações com Python, além de melhorar constantemente minhas habilidades em front-end com HTML, CSS e JavaScript. Busco evoluir a cada dia e ter um aprendizado contínuo me ajuda bastante nisso. 
 
 ### 🛠️ Tecnologias que estou aprendendo
 
@@ -21,14 +15,11 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" />
 </div>
 
-### 🚀 Projetos em destaque
-
 
 ### 🌐 Onde me encontrar
 
 - 💼 LinkedIn: www.linkedin.com/in/amanda-inagaki
 - ✉️ **Email:** inagakiamanda2@gmail.com
-- 📷 Instagram de Estudos: https://www.instagram.com/thejapatech/
 
 ### 💡 Curiosidades
 
