@@ -3,7 +3,12 @@
 **Estudante de Análise e Desenvolvimento de Sistemas | Focada em Análise de Dados**
 
 ### Sobre mim
-Me chamo Amanda Inagaki, tenho 19 anos e atualmente estou cursando ADS. Sou uma pessoa comunicativa e que gosta de desafios, e ate por isso entrei na área de Tecnologia. Meu foco atualmente é automações com Python, além de melhorar constantemente minhas habilidades em front-end com HTML, CSS e JavaScript. Busco evoluir a cada dia e ter um aprendizado contínuo me ajuda bastante nisso. 
+Olá! Eu sou a Amanda Inagaki, tenho 19 anos e estou construindo minha jornada na área de Tecnologia com foco em Análise de Dados.
+Sou apaixonada por descobrir histórias escondidas nos dados, transformar números em insights e usar esse conhecimento para criar soluções inteligentes.
+
+Atualmente estudo ADS e venho aprimorando minhas habilidades com Python, SQL, dashboards e visualização de dados. Também gosto de automatizar processos, desenvolver pequenos projetos e explorar como a tecnologia pode facilitar o dia a dia.
+
+Estou sempre em busca de aprender algo novo e evoluir tanto tecnicamente quanto como profissional.
 
 ### Ferramentas | Análise de Dados
 
