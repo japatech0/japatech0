@@ -19,7 +19,7 @@ Me chamo Amanda Inagaki, tenho 19 anos e atualmente estou cursando ADS. Sou uma 
 <div style="display: flex; gap: 10px;">
   <img src="https://img.icons8.com/?size=100&id=108784&format=png&color=000000" width="40" />
   <img src="https://img.icons8.com/?size=100&id=21278&format=png&color=000000" width="40" />
-  <img src="https://img.icons8.com/?size=100&id=7hA5Ny9rDAmV&format=png&color="fffff" width="40" />
+  <img src="<a href="https://www.flaticon.com/br/icones-gratis/css" title="css ícones">Css ícones criados por Pixel perfect - Flaticon</a>" width="40" />
   <img src="https://img.icons8.com/?size=100&id=63777&format=png&color=000000" width="40" />
   <img src="https://img.icons8.com/?size=100&id=8verEw3iUvx0&format=png&color=000000" width="40" />
 </div>
