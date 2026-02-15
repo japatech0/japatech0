@@ -44,14 +44,6 @@
 
 <br/>
 
-<div align="center">
-  <h3>📊 GitHub Stats</h3>
-  
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_AQUI&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO_AQUI&layout=compact&theme=tokyonight"/>
-</div>
-
 <hr/>
 
 <div align="center">
