@@ -6,8 +6,6 @@
     </a>
   </h1>
 
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmZ0bHh2ZGt2eHl6Znd4Z2QyZ3V6Znd4Z2QyZ3V6Znd4Z2QyZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/L1R1TVTh2uul6Thcx5/giphy.gif" width="150px">
-
   <br/>
 
   <h3>💻 Sobre Mim</h3>
