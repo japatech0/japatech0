@@ -8,7 +8,7 @@
 
   <br/>
 
-  <h3>💻 Sobre Mim</h3>
+  <h3>Sobre Mim</h3>
   
   <p>
     Sou apaixonada por interfaces e desenvolvimento Front-end. <br/>
@@ -19,9 +19,9 @@
 <div align="center">
   <table>
     <tr>
-      <td align="center">🎓 <b>Sistemas de Informação</b></td>
+      <td align="center"> <b>Sistemas de Informação</b></td>
       <td align="center">|</td>
-      <td align="center">🎓 <b>Análise e Des. de Sistemas</b></td>
+      <td align="center"> <b>Análise e Des. de Sistemas</b></td>
     </tr>
     <tr>
       <td align="center"><i>Bacharelado</i></td>
@@ -34,7 +34,7 @@
 <br/>
 
 <div align="center">
-  <h3>🛠️ Minha Stack Tecnológica</h3>
+  <h3>Minha Stack Tecnológica</h3>
   <p>Ferramentas e linguagens que utilizo nos meus projetos:</p>
   
   <a href="https://skillicons.dev">
