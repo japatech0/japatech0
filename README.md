@@ -47,5 +47,5 @@
 <hr/>
 
 <div align="center">
-  <p><i>"Transformar café em código limpo e interfaces incríveis."</i> ☕</p>
+  <p><i>"Transformar código em soluções reais com interfaces estratégicas."</i></p>
 </div>
